@@ -1,0 +1,2 @@
+1.g++ -std=c++11 smart.cpp -o oo
+2../oo
