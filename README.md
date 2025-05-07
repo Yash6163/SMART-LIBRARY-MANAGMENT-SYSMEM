@@ -1,0 +1,1 @@
+A Smart Library Management system made using c++ and utilising concepts of cpp like object oriented programming , encapsulation, templates,stl (linked list,queue,stacks) and relationships like aggragation .
